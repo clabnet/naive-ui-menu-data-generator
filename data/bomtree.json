@@ -1,0 +1,84 @@
+{
+  "bomtree": [
+    {
+      "id": 1,
+      "level": 0,
+      "type": "HDM",
+      "name": "H-FUQF",
+      "parent": "",
+      "description": ".OVAKO REVAMPING HOT ROLLING MILL 2022"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "type": "WBS",
+      "name": "FUQF.ALB.02.201A",
+      "parent": "H-FUQF",
+      "description": ".LAYOUT"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "type": "WBS",
+      "name": "FUQF.ALB.02.201B",
+      "parent": "H-FUQF",
+      "description": ".PROCESS ENGINEERING"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "type": "WBS",
+      "name": "FUQF.ALB.02.232",
+      "parent": "H-FUQF",
+      "description": ".CIVIL ENGINEERING"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "type": "WBS",
+      "name": "FUQF.ALB.02.271A",
+      "parent": "H-FUQF",
+      "description": ".BASIC ENGINEERING"
+    },
+    {
+      "id": 6,
+      "level": 2,
+      "type": "DET",
+      "name": "2029-00284-01-",
+      "parent": "FUQF.ALB.02.271A",
+      "description": "ROUTING TUBAZIONI"
+    },
+    {
+      "id": 7,
+      "level": 2,
+      "type": "DET",
+      "name": "2999-12227-01-",
+      "parent": "FUQF.ALB.02.271A",
+      "description": "CONSUMI ACQUA OVAKO"
+    },
+    {
+      "id": 8,
+      "level": 2,
+      "type": "DET",
+      "name": "2999-12228-01-",
+      "parent": "FUQF.ALB.02.271A",
+      "description": "CONSUMI ARIA OVAKO"
+    },
+    {
+      "id": 9,
+      "level": 2,
+      "type": "DET",
+      "name": "2999-12242-01-",
+      "parent": "FUQF.ALB.02.271A",
+      "description": "SPECIFICA DI FORNITURA PARTE FLUIDISTICA"
+    },
+    {
+      "id": 10,
+      "level": 2,
+      "type": "DET",
+      "name": "2029-00286A01-",
+      "parent": "FUQF.ALB.02.271A",
+      "description": "P&ID ACQUA INDIRETTA"
+    }
+  ]
+}
