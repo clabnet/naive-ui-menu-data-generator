@@ -1,6 +1,7 @@
 {
-  "name": "typescript",
+  "name": "naive-ui-menu-data-generator",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "@types/lodash": "^4.14.135",
+  "lodash": "^4.17.11"
 }
